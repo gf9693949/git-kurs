@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello World");
     }
     private void displayText() {
-        System.out.println(zmiana w drugim repo);
+        System.out.println(zmiana w drugim repozytorium);
     }
 }
